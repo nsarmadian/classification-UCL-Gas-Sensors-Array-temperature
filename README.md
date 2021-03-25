@@ -1,5 +1,5 @@
 # classification-UCL-temperature-of-Gas-Sensors-Array
-prediction of the temperature of the array of 14 metal oxide gas sensors
+predicting the temperature of the array of 14 metal oxide gas sensors
 Python code for machine learning (Logistic Regression) of data set "Gas sensor array temperature modulation"
 more details and all data sets are provided at:
 https://archive.ics.uci.edu/ml/datasets/Gas+sensor+array+temperature+modulation
